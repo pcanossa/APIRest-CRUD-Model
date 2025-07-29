@@ -1,6 +1,6 @@
 # Documentação da API de Produtos
 
-Esta é a documentação oficial para a API de Gerenciamento de Produtos. A API permite realizar operações de CRUD (Criar, Ler, Atualizar e Deletar) para produtos.
+Esta é a documentação oficial da API criada de modelo, para Gerenciamento de Produtos. A API permite realizar operações de CRUD (Criar, Ler, Atualizar e Deletar) para produtos.
 
 ## URL Base
 
